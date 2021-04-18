@@ -1,6 +1,8 @@
 ### สวัสดีงับ✌
-<hr><br>
-เป็นนักเรียนชั้น ม
+<hr>
+เป็นนักเรียนชั้น มัยธรม
+เรียนอยู่โรงเรียนถ้ำปินวิทยาคม
+ที่อยู่ <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d560.5484451468404!2d100.05850249472383!3d19.067895369094334!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30d83042a17bc215%3A0xe99c4a6fe484b3e5!2sThumpinwittayakom%20School!5e0!3m2!1sen!2sth!4v1618721799405!5m2!1sen!2sth" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 <!--
 **nutzatvchZ/NutzatvchZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
